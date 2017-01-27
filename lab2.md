@@ -12,7 +12,7 @@
    
 7. The Apache License is best for a company, as the retention of trademark rights ensures the protection of a brand. For a developer, GPL is good as users cannot sublicense modifications of your work, allowing you to retain your development rights as a copyright holder. For the common good, LGPL is good, as content created using the software may be sublicensed out, so long as the original software is cited and licensed properly, allowing for a wide proliferation of software under one license. 
 
-9. VR development is a pain to work on since the developer has to constantly put on and take off the headset. I was thinking of making a toolkit to help streamline development for VR applications, providing tools such as "recorded actions", "IPS control", and other editor tools. Consumers will be VR developers , specifically for Unity. I would use the MIT license.
+9. VR development is a pain to work on since the developer has to constantly put on and take off the headset. I was thinking of making a toolkit to help streamline development for VR applications, providing tools such as "recorded actions", "IPS control", and other editor tools. Consumers will be VR developers , specifically for Unity. I would use the MIT license. Since this projet is a bit complex, I've also considered making a log program for video game players to track their games in completeness, time played, and other statistics. People like me play a lot of games of a lot of styles (board games, video games, card games) and keeping track of what Ive played with some numbers of how much I enjoyed the game, etc. would be interesting.
 
 
 Website | License Present | License
