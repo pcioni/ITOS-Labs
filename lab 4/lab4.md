@@ -76,23 +76,23 @@ add_executable(Tutorial tutorial.cxx)
 
 **Result**
 
-![lab5step1](images/lab5/lab5step1.png)
+![lab5step1](images/lab5step1.png)
 
 ## Step 2
 
-![lab5step2](images/lab5/lab5step2.png)
+![lab5step2](images/lab5step2.png)
 
 ## Step 3
 
-![lab5step3](images/lab5/lab5step3.png)
+![lab5step3](images/lab5step3.png)
 
 ## Step 4
 
-![lab5step4](images/lab5/lab5step4.png)
+![lab5step4](images/lab5step4.png)
 
 ## Step 5
 
-![lab5step5](images/lab5/lab5step5.png)
+![lab5step5](images/lab5step5.png)
 
 
 
